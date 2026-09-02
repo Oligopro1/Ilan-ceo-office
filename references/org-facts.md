@@ -47,18 +47,19 @@ source, never from assumption.
   completed as of 2026-09-01 per Ilan's email to CBP contact Kevin Haggerty.
 
 ## Known system limits (verified, not assumed)
-- **Outlook calendar is read-only from this connection.** Confirmed 2026-09-02:
-  creating/sending a calendar invite (Safir touch base, Fri Sept 11) failed with a
-  Microsoft Graph 403 — the connected app has calendar read access but not
-  `Calendars.ReadWrite`. Nothing was sent; the failure was clean. This needs an
-  admin to grant that permission on the Microsoft 365 side — not something this
-  office can fix itself. Until then: I can read the calendar and propose times, but
-  cannot create or send events.
-- **Outlook mail-send permission is unverified.** The daily/weekly brief routines
-  (see memory/decisions.md) depend on being able to send mail to ilanc@vernico.com.
-  Given the calendar permission gap above, the same admin-consent issue could also
-  affect `Mail.Send` — not yet confirmed either way. Check the first brief's actual
-  delivery and fix promptly if it also fails.
+- **Outlook is read-only from this connection — confirmed on both calendar and mail.**
+  Tested 2026-09-02: creating the Safir calendar invite failed (Graph 403, missing
+  `Calendars.ReadWrite`), and a test email to Ilan's own inbox also failed (Graph
+  403, missing `Mail.Send`). Both errors point to the same root cause: the
+  Microsoft 365 app connection here has read scopes consented but not the write
+  scopes (`Mail.Send`, `Calendars.ReadWrite`). This is one admin-side fix, not two —
+  whoever administers the Vernico Microsoft 365 / Entra tenant needs to grant those
+  two application permissions and admin-consent them. Nothing can be sent or
+  created (mail or calendar) from this connection until that happens. Read access
+  (inbox search, calendar search) works fine.
+  - Practical effect: the daily/weekly brief routines cannot actually email Ilan
+    right now — they still post the brief as a reply in this conversation, which
+    is the fallback until the permission is fixed.
 
 ## Explicitly not known yet (flagged, not filled)
 - Full org chart / reporting lines

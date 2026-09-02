@@ -31,3 +31,11 @@ what was decided or corrected, who called it.
    out. Told Ilan plainly and logged the gap in references/org-facts.md; this
    needs a Microsoft 365 admin-side permission grant, not something fixable from
    here. Decided by: agent (reporting a failure, not a judgment call).
+5. 2026-09-02 — Tested Outlook mail-send with a one-line email to Ilan's own inbox
+   (to confirm the daily/weekly brief could actually reach him by email). Same
+   failure as the calendar invite: Graph 403, missing Mail.Send permission. Same
+   root cause as item 4 — this connection has read scopes consented, not write.
+   Updated both brief routines to try the email, fail gracefully with a one-line
+   note if it 403s again, and still post the full brief as a reply in this
+   conversation either way, so the brief keeps arriving on schedule while the
+   permission gets fixed on the Microsoft 365 side. Decided by: agent.

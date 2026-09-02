@@ -130,3 +130,8 @@ relevant rule above, or as a new numbered rule if it's a new class of mistake.
    rather than guess (as with the first "Renee" search) — but check known
    near-miss patterns (swapped/dropped syllables, similar-sounding names) before
    concluding there's no match.
+2. 2026-09-02 — Ilan does not want calendar invites marked confidential/private by
+   default, even for sensitive topics (CFO hiring, in this case) — corrected right
+   after the Ronen invite went out that way. Updated that event's sensitivity back
+   to normal. Going forward: create invites with default (normal) sensitivity
+   unless Ilan specifically asks for confidential/private on that one.

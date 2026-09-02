@@ -45,3 +45,9 @@ what was decided or corrected, who called it.
    this — the error is at the app-registration / admin-consent level in the
    Microsoft 365 (Entra ID) tenant, not a personal Outlook or claude.ai setting.
    Told Ilan plainly. Decided by: agent (reporting a failure).
+7. 2026-09-02 — Retried again at Ilan's request: this time both the Safir invite
+   (Fri Sept 11, 12:00-12:30pm ET) and a self-test email succeeded. Whatever fix
+   was applied on the Microsoft 365 side landed between the previous retry and
+   this one. Updated org-facts.md to mark the permission gap resolved and
+   simplified both brief routines' prompts back to a normal send-with-graceful-
+   fallback (no longer assuming it's broken). Decided by: agent.

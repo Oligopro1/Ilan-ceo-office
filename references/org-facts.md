@@ -46,20 +46,17 @@ source, never from assumption.
 - **CTPAT security profile** (Vernico Products Ltd, Acct #50157637): renewal
   completed as of 2026-09-01 per Ilan's email to CBP contact Kevin Haggerty.
 
-## Known system limits (verified, not assumed)
-- **Outlook is read-only from this connection — confirmed on both calendar and mail.**
-  Tested 2026-09-02: creating the Safir calendar invite failed (Graph 403, missing
-  `Calendars.ReadWrite`), and a test email to Ilan's own inbox also failed (Graph
-  403, missing `Mail.Send`). Both errors point to the same root cause: the
-  Microsoft 365 app connection here has read scopes consented but not the write
-  scopes (`Mail.Send`, `Calendars.ReadWrite`). This is one admin-side fix, not two —
-  whoever administers the Vernico Microsoft 365 / Entra tenant needs to grant those
-  two application permissions and admin-consent them. Nothing can be sent or
-  created (mail or calendar) from this connection until that happens. Read access
-  (inbox search, calendar search) works fine.
-  - Practical effect: the daily/weekly brief routines cannot actually email Ilan
-    right now — they still post the brief as a reply in this conversation, which
-    is the fallback until the permission is fixed.
+## Known system limits (verified, not assumed) — RESOLVED 2026-09-02
+- **Outlook write access (mail send + calendar write) was blocked, now fixed.**
+  Confirmed broken twice earlier on 2026-09-02 (Graph 403 on both `Mail.Send` and
+  `Calendars.ReadWrite` — missing admin consent on the Microsoft 365 app
+  registration). Ilan had someone/something change a setting; a retry right after
+  still failed identically, but a later retry the same day succeeded on both: the
+  Safir calendar invite sent cleanly, and a test email to Ilan's own inbox sent
+  cleanly. Treat both mail send and calendar write as working going forward — but
+  if either 403s again, this is the same admin-consent issue and needs the same
+  fix (Entra ID → App registrations → API permissions → grant admin consent for
+  Mail.Send and Calendars.ReadWrite), not a retry loop.
 
 ## Explicitly not known yet (flagged, not filled)
 - Full org chart / reporting lines

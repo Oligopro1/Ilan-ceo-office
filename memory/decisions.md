@@ -39,3 +39,9 @@ what was decided or corrected, who called it.
    note if it 403s again, and still post the full brief as a reply in this
    conversation either way, so the brief keeps arriving on schedule while the
    permission gets fixed on the Microsoft 365 side. Decided by: agent.
+6. 2026-09-02 — Retried both the Safir invite and a self-test email after Ilan said
+   he'd changed a setting. Identical Graph 403s on both, same missing permissions
+   (Mail.Send, Calendars.ReadWrite). Whatever setting he changed did not touch
+   this — the error is at the app-registration / admin-consent level in the
+   Microsoft 365 (Entra ID) tenant, not a personal Outlook or claude.ai setting.
+   Told Ilan plainly. Decided by: agent (reporting a failure).

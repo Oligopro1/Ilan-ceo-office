@@ -25,3 +25,9 @@ what was decided or corrected, who called it.
    when clocks fall back to EST (~Nov 2026) or the brief will start arriving at
    4pm local. Flagged as a to-do, not yet fixed. Decided by: agent, per Ilan's
    instruction.
+4. 2026-09-02 — Attempted to create/send the Safir touch-base invite (Fri Sept 11,
+   12:00-12:30pm ET) after Ilan said "send it." Microsoft Graph rejected it with a
+   403 — this connection has calendar read access but not write. No invite went
+   out. Told Ilan plainly and logged the gap in references/org-facts.md; this
+   needs a Microsoft 365 admin-side permission grant, not something fixable from
+   here. Decided by: agent (reporting a failure, not a judgment call).

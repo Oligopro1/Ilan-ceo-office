@@ -120,5 +120,13 @@ piece.
 ## Correction log
 
 Corrections land here the day they happen, each as a dated one-line addition to the
-relevant rule above, or as a new numbered rule if it's a new class of mistake. None
-yet — this office just started.
+relevant rule above, or as a new numbered rule if it's a new class of mistake.
+
+1. 2026-09-02 — Ilan dictates by voice, and names come through mangled by
+   transcription ("Sapir" for Safir, "Renee" for Ronen so far). Before acting on a
+   name from a voice-typed message — especially before sending anything to a
+   third party — check it against real contacts (recent mail/calendar, org-facts.md)
+   rather than taking the spelling literally. If nothing plausible turns up, ask
+   rather than guess (as with the first "Renee" search) — but check known
+   near-miss patterns (swapped/dropped syllables, similar-sounding names) before
+   concluding there's no match.

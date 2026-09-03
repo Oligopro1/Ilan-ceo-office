@@ -51,3 +51,15 @@ what was decided or corrected, who called it.
    this one. Updated org-facts.md to mark the permission gap resolved and
    simplified both brief routines' prompts back to a normal send-with-graceful-
    fallback (no longer assuming it's broken). Decided by: agent.
+8. 2026-09-02 — The 5pm daily brief routine fired and the inbox/calendar data was
+   pulled, but the session moved on to other work (Ali/Ronen scheduling requests)
+   before the brief was written, emailed, or logged. That day's brief never went
+   out — recording the gap rather than pretending it happened. Decided by: agent
+   (reporting a miss).
+9. 2026-09-03 — Daily brief ran and emailed successfully (subject "Daily Brief —
+   Vernico — September 3, 2026") to ilanc@vernico.com. Covered: HeadBrands
+   distribution agreement awaiting Ilan's review (flagged twice by Javier),
+   a shipping-contact question from Riz needing a reply, a Calura 8U leak/batch
+   issue (C3277) Raphy is investigating, Spain certification date locked (Nov 22,
+   Madrid), Ronen's Gloss report received, Cosmoprof Bologna 2027 booth space
+   still stuck, and Design Financier's underwriting kicked off. Decided by: agent.

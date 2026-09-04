@@ -135,3 +135,10 @@ relevant rule above, or as a new numbered rule if it's a new class of mistake.
    after the Ronen invite went out that way. Updated that event's sensitivity back
    to normal. Going forward: create invites with default (normal) sensitivity
    unless Ilan specifically asks for confidential/private on that one.
+3. 2026-09-04 — Booked two meetings (Ali, Ronen) for Monday Sept 7 using the
+   Microsoft Graph availability tool, which showed both as free — it doesn't know
+   about statutory holidays, and Sept 7 is Labour Day. Caught it a day later in
+   the daily brief, not before booking. Going forward: before creating any
+   invite, sanity-check the date against known Canadian/Quebec statutory
+   holidays, not just the free/busy lookup — availability tools show a calendar
+   is open, not that the day is a working day.

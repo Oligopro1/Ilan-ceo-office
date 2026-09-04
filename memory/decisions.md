@@ -63,3 +63,13 @@ what was decided or corrected, who called it.
    issue (C3277) Raphy is investigating, Spain certification date locked (Nov 22,
    Madrid), Ronen's Gloss report received, Cosmoprof Bologna 2027 booth space
    still stuck, and Design Financier's underwriting kicked off. Decided by: agent.
+10. 2026-09-04 — Daily brief ran and emailed successfully (subject "Daily Brief —
+    Vernico — September 4, 2026"). Covered: Modern Beauty pushing back on the Buy
+    Canadian campaign's Tuesday deadline, a Beauté Star contract amendment needing
+    review, the Bevo deposit awaiting a yes, an unanswered shipping question from
+    Nadia, plus closed items (Vish partnership call, recruiting landing page,
+    Pertinence Média strategy doc). Also caught and flagged a real mistake in the
+    same email: the availability lookups used to book Ali (Mon Sept 7, 4pm) and
+    Ronen (Mon Sept 7, 5pm) don't account for statutory holidays, and Sept 7 is
+    Labour Day. Both invites are live on a holiday until Ilan says otherwise. See
+    RULES.md correction log for the standing fix. Decided by: agent.

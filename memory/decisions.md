@@ -73,3 +73,12 @@ what was decided or corrected, who called it.
     Ronen (Mon Sept 7, 5pm) don't account for statutory holidays, and Sept 7 is
     Labour Day. Both invites are live on a holiday until Ilan says otherwise. See
     RULES.md correction log for the standing fix. Decided by: agent.
+11. 2026-09-04 — First weekly brief ran and emailed successfully (subject
+    "Weekly Brief — Vernico — week of August 31, 2026"). Covered the week's open
+    items (Labour Day scheduling conflict, HeadBrands agreement, Buy Canadian
+    pushback, Beauté Star amendment, Anton Ranchin termination timeline), what
+    closed (5 yearly evaluations, Spain certification date, Ali/Ronen meetings,
+    Vish call, TD Wealth intro, this office's own brief automation going live),
+    and what's being watched (Calura leak, Cosmoprof Bologna, QOAT call outcome
+    unclear, Windsor Beauty Supply still open, Shopify/NetSuite still not
+    connected). Decided by: agent.

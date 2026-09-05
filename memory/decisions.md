@@ -82,3 +82,8 @@ what was decided or corrected, who called it.
     and what's being watched (Calura leak, Cosmoprof Bologna, QOAT call outcome
     unclear, Windsor Beauty Supply still open, Shopify/NetSuite still not
     connected). Decided by: agent.
+12. 2026-09-05 — Daily brief ran and emailed successfully (subject "Daily Brief —
+    Vernico — September 5, 2026"). Genuinely quiet Saturday — no calendar events,
+    nothing urgent in the inbox. Flagged one non-urgent item (Vish's Oct 7, 1pm
+    EST proposal needs a yes/no) and one FYI (Dafni call moved to Wed Sept 9,
+    3:30pm Israel time). Decided by: agent.

@@ -87,3 +87,12 @@ what was decided or corrected, who called it.
     nothing urgent in the inbox. Flagged one non-urgent item (Vish's Oct 7, 1pm
     EST proposal needs a yes/no) and one FYI (Dafni call moved to Wed Sept 9,
     3:30pm Israel time). Decided by: agent.
+13. 2026-09-06 — Daily brief ran and emailed successfully (subject "Daily Brief —
+    Vernico — September 6, 2026"). Quiet Sunday — no calendar events, inbox mostly
+    promotional/newsletter noise. Flagged one action item: a note-to-self from
+    Ilan about an upcoming 25-person class at Unico Hair Studio (Fullerton, CA)
+    needing bleach (6x Extra Blonde, 20 Vol x4, 10 Vol x1) and swag for 25 shipped
+    out. Also noted Normandin Transit's routine daily report, a cold PL Cosmetic
+    outreach (watching only), and two still-open items carried from earlier in
+    the week: the Ali/Ronen Labour Day scheduling conflict (unresolved) and
+    Vish's Oct 7 proposal (still needs a yes/no). Decided by: agent.

@@ -96,3 +96,15 @@ what was decided or corrected, who called it.
     outreach (watching only), and two still-open items carried from earlier in
     the week: the Ali/Ronen Labour Day scheduling conflict (unresolved) and
     Vish's Oct 7 proposal (still needs a yes/no). Decided by: agent.
+14. 2026-09-07 — Daily brief ran and emailed successfully (subject "Daily Brief —
+    Vernico — September 7, 2026"). Read all 4 calendar events and all 47 inbox
+    messages for the day (Labour Day). Flagged Cosmoprof Bologna 2027 booth-space
+    problem (Cosmoprof says splitting into three entities isn't easy at this stage)
+    as needing a decision. Verified from the live calendar that the Ali/Ronen
+    meetings previously flagged as sitting on the Labour Day holiday (see entry 3
+    in RULES.md correction log) are no longer on today's schedule — resolved,
+    no further action. Also noted: Design Financier confirmed the Sept 15 noon
+    insurance-application meeting for Ilan and his wife; Moneycorp TARF 4146
+    executed (USD 25,000 sold vs CAD at 1.3835, value Sept 8); home security
+    system showed unarmed at 11:15am (watching only); Obelis impersonation-fraud
+    notice (watching only). Decided by: agent.

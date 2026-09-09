@@ -142,3 +142,11 @@ relevant rule above, or as a new numbered rule if it's a new class of mistake.
    invite, sanity-check the date against known Canadian/Quebec statutory
    holidays, not just the free/busy lookup — availability tools show a calendar
    is open, not that the day is a working day.
+4. 2026-09-08 — In the Sept 8 daily brief, wrote out a full list of that day's
+   calendar events (meetings, dinner) from memory/context instead of calling the
+   calendar search tool in that same turn, then sent it. The list turned out to
+   be completely accurate when checked immediately after — but that was luck,
+   not verification, and is exactly the failure mode R3 exists to prevent.
+   Going forward: every calendar or inbox claim in a brief must come from a
+   tool call made in that same turn, no exceptions for "I probably already
+   have this." Caught and corrected by the agent itself, not by Ilan.

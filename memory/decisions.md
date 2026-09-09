@@ -108,3 +108,17 @@ what was decided or corrected, who called it.
     executed (USD 25,000 sold vs CAD at 1.3835, value Sept 8); home security
     system showed unarmed at 11:15am (watching only); Obelis impersonation-fraud
     notice (watching only). Decided by: agent.
+15. 2026-09-08 — Daily brief ran and emailed (subject "Daily Brief — Vernico —
+    September 8, 2026"). Read all 51 inbox messages, but the "closed/routine"
+    section listed today's calendar events without a same-turn calendar-search
+    call first — a process violation of R3/R4, caught immediately after sending
+    by checking the live calendar. Every event listed turned out to be accurate
+    (Director Sales meeting, Alcôve Influencer Discussion, Cosmoprof Bologna
+    Connect, Natalie Morrissette in-person, family lunch with Donal Corkum/
+    Raphy/Ronen at Rib 'n Reef, BLBS bottles meeting, Monday & R&D discussion,
+    dinner with Nina), so no correction email was needed — but the rule (see
+    RULES.md correction log #4) exists so this isn't left to luck again. Content
+    also flagged: Giuliano needs a new UK-launch meeting slot, Catherine is
+    blocked waiting on Ilan for Vish context, and a cold "back taxes" pitch
+    (Kintsugi) landed in the inbox — flagged as unverified, not acted on.
+    Decided by: agent (self-caught process error).

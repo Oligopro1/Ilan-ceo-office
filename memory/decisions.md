@@ -122,3 +122,15 @@ what was decided or corrected, who called it.
     blocked waiting on Ilan for Vish context, and a cold "back taxes" pitch
     (Kintsugi) landed in the inbox — flagged as unverified, not acted on.
     Decided by: agent (self-caught process error).
+16. 2026-09-09 — Daily brief ran and emailed successfully (subject "Daily Brief —
+    Vernico — September 9, 2026"). Read all 6 calendar events and all 6 inbox
+    messages for the day, fresh this turn (per the R3/R4 fix logged 2026-09-08).
+    Ilan was in Quebec City for the day (calendar block "visit a quebec," 9am-
+    4:30pm) and met Rafael at Cité Importation with François Emond — direct
+    follow-through on this week's Coiffure Internationale pricing issue. Flagged
+    two items needing attention: a BorderWorx Logistics LTL rate agreement sent
+    via Adobe for signature, awaiting Ilan's and Ronen's review; and Angela
+    Marchetta (Beauté Star) asking directly for a status update on the new
+    Blacklight Developer. Also noted Beauté Star's Gloss tube take-back on
+    track for November, and Francesco Staiano's (Groupe Eleganza) thanks plus
+    upcoming time-off dates. Decided by: agent.

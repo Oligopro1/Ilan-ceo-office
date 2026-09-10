@@ -134,3 +134,21 @@ what was decided or corrected, who called it.
     Blacklight Developer. Also noted Beauté Star's Gloss tube take-back on
     track for November, and Francesco Staiano's (Groupe Eleganza) thanks plus
     upcoming time-off dates. Decided by: agent.
+17. 2026-09-10 — Daily brief ran and emailed successfully (subject "Daily Brief —
+    Vernico — September 10, 2026"). Read all 11 calendar events and all 79 inbox
+    messages for the day, fresh this turn. Flagged 4 items needing attention:
+    Modern Beauty's long-pending Blacklight packaging credits (Ontario since
+    June, Calgary since mid-August), Catherine's concern the GK series launch
+    is at risk with only 5 test results in, Keith at Salon Center asking about
+    a tariff-workaround entity for Alcôve, and Catherine's Cosmoprof Bologna
+    booth-builder/designer question. Closed items: Beauté Star's acheter local
+    campaign folded into today's meeting with Karine Lamontagne and confirmed
+    ("Parfait!") — this resolves the "Starbedar"/"Karin" identities flagged
+    2026-09-09 (Beauté Star and Karine Lamontagne, VP Marketing/E-commerce,
+    confirmed correct); 425 Meloche lease renewed (1yr + 1yr option); a 3-page
+    Cosmetics Magazine spread on Oligo/Blacklight Blonde Science ran; Quebec
+    trip Oct 27-29 — Devon confirmed, and "Christina" turned out to be Cristina
+    Laura Zambon (Alcôve), not Cristina Da Silva, resolved directly by Ilan.
+    Watching: QOAT transition still unclear, Alcôve Brand Ambassador hiring in
+    progress, Moneycorp TARF 4057 executed (USD 25,000 vs CAD at 1.4275).
+    Decided by: agent.

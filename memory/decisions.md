@@ -152,3 +152,15 @@ what was decided or corrected, who called it.
     Watching: QOAT transition still unclear, Alcôve Brand Ambassador hiring in
     progress, Moneycorp TARF 4057 executed (USD 25,000 vs CAD at 1.4275).
     Decided by: agent.
+18. 2026-09-11 — Daily brief ran and emailed successfully (subject "Daily Brief —
+    Vernico — September 11, 2026"). Read all 10 calendar events and all 5 inbox
+    messages for the day, fresh this turn. Flagged as needing attention: Carolyn
+    Knox (Ogletree Deakins) sent the revised Anton Ranchin termination notice
+    with her comments, needing Ilan to insert Anton's email and personal info
+    before it can go out (legal); Catherine needs a yes on UK-launch printed
+    materials to get them to print; BorderWorx is following up for confirmation
+    the LTL agreement (open since Wed Sept 9) was received. Closed: a full day
+    of internal meetings ran (UK launch, Devon/Melina's return, Managers
+    meeting, Volume testing, weekly QA, Safir touch base, Andrew/WCB, Colour
+    Innovation Bootcamp pre-meeting, West Coast Beauty H1 plan); Tina Lopez
+    sent DV colour class attendee emails. Decided by: agent.

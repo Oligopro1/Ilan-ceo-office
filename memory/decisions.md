@@ -164,3 +164,20 @@ what was decided or corrected, who called it.
     meeting, Volume testing, weekly QA, Safir touch base, Andrew/WCB, Colour
     Innovation Bootcamp pre-meeting, West Coast Beauty H1 plan); Tina Lopez
     sent DV colour class attendee emails. Decided by: agent.
+19. 2026-09-11 — The Friday weekly brief trigger fired (alongside that day's
+    daily brief, both at ~5pm) but only the daily brief was executed at the
+    time — the weekly brief was never written, emailed, or logged that day.
+    Recording the gap rather than pretending it happened, per the same
+    standard as the 2026-09-02 miss (entry 8). Decided by: agent (reporting
+    a miss).
+20. 2026-09-12 — Daily brief ran and emailed successfully (subject "Daily
+    Brief — Vernico — September 12, 2026"). Read both calendar events and all
+    7 inbox messages for the day, fresh this turn. Quiet Saturday: Netherlands
+    and UK monthly ops calls ran; François Emond confirmed continued
+    follow-through on Coiffure Internationale; lightener promotion (Nov-Dec)
+    replies from three US distributors all point to Monday. Nothing needing
+    Ilan today. Separately, caught the missed 2026-09-11 weekly brief (see
+    entry 19) and sent it a day late (subject "Weekly Brief — Vernico — week
+    of September 7, 2026"), built from that week's daily-brief entries
+    (14-18), each of which read 100% of that day's inbox/calendar at the
+    time. Decided by: agent.

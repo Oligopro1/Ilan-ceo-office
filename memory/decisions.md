@@ -181,3 +181,11 @@ what was decided or corrected, who called it.
     of September 7, 2026"), built from that week's daily-brief entries
     (14-18), each of which read 100% of that day's inbox/calendar at the
     time. Decided by: agent.
+21. 2026-09-13 — Daily brief ran and emailed successfully (subject "Daily
+    Brief — Vernico — September 13, 2026"). Read both calendar events and all
+    21 inbox messages for the day, fresh this turn. Quiet Sunday: Italia and
+    Romania monthly ops calls ran; inbox was mostly promotional/personal.
+    Nothing needed Ilan today. Flagged one watching item: an Air Canada
+    Montreal-London booking (Sept 22, ref ABAY4C) was refunded, worth noting
+    in case it affects UK launch travel plans already in motion. Decided by:
+    agent.

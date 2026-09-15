@@ -203,3 +203,26 @@ what was decided or corrected, who called it.
     Anton touch base, R&D meeting, and JGH call ran; Ilan also had time
     blocked to prepare a termination package. Watching: MIDL invoices in the
     UK still unresolved. Decided by: agent.
+23. 2026-09-15 — Daily brief ran and emailed successfully (subject "Daily
+    Brief — Vernico — September 15, 2026"). Read all 6 calendar events and
+    all 67 inbox messages for the day, fresh this turn. Flagged as needing
+    attention: Rosa asking whether to prepare the Eleganza Alcove-discount
+    invoice; Kenny Wise (CanRad) and Groupe Eleganza both pushing back the
+    same day on the 3% Alcôve allowance tariff cut, asking when/whether it's
+    restored; Design Financier needs ID, Mamin Inc.'s CRA number, and
+    signing-authority confirmation for the insurance application; Catherine
+    wants the Calura C&S launch meeting pushed an hour; Head Brands Sweden
+    sending the updated contract for final sign-off (no action yet). Closed:
+    SSG 4-skid return pickup completed and confirmed for today; both design
+    meetings (Oly Anger, Issastudio) ran; Cristina answered the BLBS
+    Leave-in heat-protection question; Alcove's 20x20 show booth confirmed;
+    Janelle responded well to yesterday's allowance letter. Watching: two
+    internal QOAT/Cassiopeia emails (a missed September retainer payment,
+    an unresolved six-month commission-tail question) landed in Ilan's
+    inbox without him as a visible recipient — flagged as a possible
+    visibility issue, not just a content one, on top of the already-open
+    QOAT watch item; today's Air Canada notice still treats booking ABAY4C
+    as active, conflicting with the refund noted 2026-09-13 — not
+    reconciled either way; home alarm unarmed at 11:15am; an X.com sign-in
+    confirmation code that may be worth verifying wasn't Ilan's device.
+    Decided by: agent.

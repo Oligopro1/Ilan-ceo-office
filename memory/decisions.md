@@ -189,3 +189,17 @@ what was decided or corrected, who called it.
     Montreal-London booking (Sept 22, ref ABAY4C) was refunded, worth noting
     in case it affects UK launch travel plans already in motion. Decided by:
     agent.
+22. 2026-09-14 — Daily brief ran and emailed successfully (subject "Daily
+    Brief — Vernico — September 14, 2026"). Read all 5 calendar events and all
+    72 inbox messages for the day, fresh this turn. Flagged as needing
+    attention: Ali Lifshitz's absence request awaiting approval; Jake at
+    Salon Center wanting to increase lightener promotion quantities; Feras's
+    suggested SKU list for the Beauté Star buy-local selection. Closed: UK
+    launch printed materials approved by Javier, Catherine proceeding to
+    print; Anton's Genia Colour Intelligence App brief validated, workshop
+    set for Wednesday; Charlene confirmed the UK/EU registration scope to
+    Obelis; Catherine liked the buy-local recommendations, suggested adding
+    a social component; GMD Spain shipment freight terms resolved; weekly
+    Anton touch base, R&D meeting, and JGH call ran; Ilan also had time
+    blocked to prepare a termination package. Watching: MIDL invoices in the
+    UK still unresolved. Decided by: agent.

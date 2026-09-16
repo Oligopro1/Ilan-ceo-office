@@ -226,3 +226,34 @@ what was decided or corrected, who called it.
     reconciled either way; home alarm unarmed at 11:15am; an X.com sign-in
     confirmation code that may be worth verifying wasn't Ilan's device.
     Decided by: agent.
+24. 2026-09-16 — Daily brief ran and emailed successfully (subject "Daily
+    Brief — Vernico — September 16, 2026"). Read all 9 calendar events and
+    all 31 inbox messages for the day, fresh this turn. Flagged as needing
+    attention: Modern Beauty is the third distributor in three days (after
+    CanRad, Eleganza) pushing back on the 3% Alcôve allowance cut —
+    recommended one standard reply instead of ad hoc answers; Design
+    Financier still waiting on Ilan's will (Ronen's and Raphy's already in);
+    Cole Intl asking whether Zois's quote bills to Vernico; Ali's CFO job
+    description draft needs Ilan/Ronen/Raphy feedback. Closed: a full day of
+    internal meetings ran (Klix/Dafni Hair HS-code follow-up, Genia Colour
+    Intelligence App in-person workshop, Les Pitchous, finance-dept hiring
+    discussion, promo timeline explanation, HR meeting, Modern sampling
+    program discussion); Cristina answered QOAT 150mL formula questions;
+    UK event Sept 24/25 room/attendee count confirmed with the hotel; Beauty
+    Craft MN shipment and Beauté Star invoices/shipment both went out today;
+    Cole Intl Netherlands 3PL invoice sent, container load confirmed for
+    next week; Anton forwarded Genia's Colour Intelligence App dev invoice
+    to Rosa/Ronen, noted factually given the termination context; Nadia's
+    shipment repacking spec given. Watching: the Alcôve-allowance pushback
+    is now a 3-distributor pattern; QOAT/Cassiopeia's retainer and
+    commission-tail questions from yesterday remain unresolved; Depasquale
+    order tracking shows Friday delivery, hoping for tomorrow. Separately,
+    per Ilan's direct instructions today (outside the brief): sent an ask to
+    Marie/Catherine/Vicky/Cristina/Charlene-style "the ladies" Zoom-accounts
+    list request (draft to Ilan first); drafted then, on explicit instruction,
+    sent Vicky an email re: Genia Colour Intelligence App launch discussion,
+    checked both calendars, and booked a 1:30-2pm ET call; sent Bianca
+    Polcari and Kate Hume a direct ask to build a GABs-launch brief; drafted
+    (not sent) a David Slaick (EISS)/Vicky email about a spring 2027 ~200-
+    person hair show, held in Ilan's inbox pending his forward. Decided by:
+    agent.

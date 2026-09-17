@@ -257,3 +257,40 @@ what was decided or corrected, who called it.
     (not sent) a David Slaick (EISS)/Vicky email about a spring 2027 ~200-
     person hair show, held in Ilan's inbox pending his forward. Decided by:
     agent.
+25. 2026-09-17 — Daily brief ran and emailed successfully (subject "Daily
+    Brief — Vernico — September 17, 2026"). Read all 7 calendar events and
+    all 20 inbox messages for the day, fresh this turn. Flagged as needing
+    attention: Marie forwarding the Oligo Gorewards Program distributor-
+    credit question, asking Ilan to advise and whether he'd already spoken
+    to Fay; Ali sent back the VP Marketing & Sales JD attachment for review.
+    Closed: a full day of meetings ran (Nov 14 hairdressers event prep,
+    weekly QA x Charlene, first Oligo-Alcove/Beauté Star brand meeting with
+    a proposed monthly cadence, Proudly Canadian initiative, Feras's Crêpez
+    team treat, Calura C&S Rebrand launch with survey/presentations sent
+    after, weekly Education touch base); Head Brands Sweden contract
+    effectively finalized (Javier answered Cecilia's warehouse-address ask
+    same day); Vicky confirmed UK display shipping to Strand Palace Hotel;
+    Genia sent the Colour Intelligence App workshop presentation; Catherine
+    closed the Blacklight Volume Brief packaging thread; both Beauté Star
+    Oct 1 planning meetings accepted; three shipments (West Coast Beauty,
+    Salon Center, Beauty Code Pro) went out with docs. Watching: a quiet day
+    on all previously flagged fronts — no new Alcôve-allowance pushback, no
+    QOAT/Cassiopeia movement, no MIDL update. Separately, per Ilan's direct
+    instructions today (outside the brief): sent Charlene an email re: the
+    2027 QA system, per explicit send instruction; researched and answered
+    a question on old-building water-system bacteria risk (Legionella/
+    biofilm), flagging the Quebec RBQ cooling-tower Legionella regime
+    (mandatory registration/testing since 2014) and the GMP/product-safety
+    angle given this is a manufacturing facility — recommended confirming
+    cooling-tower status and getting accredited water testing done, offered
+    to draft outreach; searched exhaustively for Guy Leroux (Capilex)
+    "monthly sales numbers" per Ilan's request — found Guy Leroux never
+    personally sent any email (all Capilex correspondence is from
+    Louis-Philippe Leclerc, Guy cc'd), the Capilex distributor relationship
+    ended 2026-02-05, and the only sales-adjacent document in the mailbox
+    is a single Q4-2025 loyalty-program report (not monthly, not total
+    distributor sales) — reported this honestly rather than inventing
+    monthly figures that don't exist, recommended NetSuite as the real
+    source; compiled and sent Ilan a full chronological digest of all 23
+    Capilex/Guy Leroux emails (Oct 2025-Feb 2026) since the tools available
+    can't attach raw email files. Decided by: agent.

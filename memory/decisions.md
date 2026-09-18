@@ -294,3 +294,29 @@ what was decided or corrected, who called it.
     source; compiled and sent Ilan a full chronological digest of all 23
     Capilex/Guy Leroux emails (Oct 2025-Feb 2026) since the tools available
     can't attach raw email files. Decided by: agent.
+26. 2026-09-18 — Daily brief ran and emailed successfully (subject "Daily
+    Brief — Vernico — September 18, 2026"). Read all 9 calendar events and
+    all 9 inbox messages for the day, fresh this turn. Flagged as needing
+    attention: Beauty Code (William Rodriguez) is now a 4th distributor
+    (after CanRad, Eleganza, Modern Beauty) asking about the removed Alcôve
+    allowance; Modern Beauty (John Costanza) separately flagged an Alcôve/
+    CanRad Winnipeg invoice showing shipment to a non-distribution area plus
+    a discount, asking to speak with Ilan directly — a channel-conflict
+    concern distinct from the allowance question. Closed: a full day of
+    meetings ran (OLIGO FRANCE monthly review, UK launch discussion pt.1,
+    Star Bedar initiative, Klix Proposal, RBC/Mark Hannon meeting, Chatters
+    Promo Plan, QOAT Shareholders Call, 3hr salon-time block); Headbrands
+    Sweden confirmed Oligo at Headbrands High Stage 2026 and in the 2027
+    Collection, Vicky already confirmed; Myles Powell introduced a
+    Netherlands 3PL contact (Anton, OGO Ship); Cole Intl answered Ilan's
+    question on the NL inventory-transfer invoice/EORI requirement; Rosa
+    updated the lightener promo sales order and sent Raphy the sheet, still
+    missing Bellissimo/Windsor USA/Salon Wax replies. Watching: Alcôve-
+    allowance pushback now at 4 distributors, no standard reply sent yet;
+    two parallel Netherlands 3PL conversations now running (Cole Intl,
+    OGO Ship). Separately, per Ilan's direct instruction today (outside the
+    brief): improved/corrected a draft email to Michel/Angela (Beauté Star)
+    re: BFSM consumer/pro plans and the Blacklight pro liters program,
+    fixing typos per the desktop-draft convention and flagging one unclear
+    word ("planphelt") as a guess ("plan sheet") rather than inventing a
+    silent fix. Decided by: agent.

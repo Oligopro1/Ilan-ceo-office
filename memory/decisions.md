@@ -320,3 +320,27 @@ what was decided or corrected, who called it.
     fixing typos per the desktop-draft convention and flagging one unclear
     word ("planphelt") as a guess ("plan sheet") rather than inventing a
     silent fix. Decided by: agent.
+27. 2026-09-18 — Friday weekly brief ran and emailed successfully (subject
+    "Weekly Brief — Vernico — week of September 14, 2026"). Verified all 35
+    calendar events for the week fresh this turn; cross-checked a fresh
+    partial inbox pull against the week's daily-brief entries (22-26), each
+    of which already did a full same-turn read on its day (Mon 72, Tue 67,
+    Wed 31, Thu 20, Fri 9 messages). The fresh pull surfaced two items not
+    yet in any daily brief: a BNC annual Multi-Résidentiel financing review
+    for 12856433 Canada Inc needing documents (Ronen/Raphy cc'd), and Modern
+    Beauty's Dorothy Cook questioning why the Alcôve-allowance matter is
+    being handled ad hoc across multiple people instead of through Ilan.
+    Flagged going into next week: the Alcôve-allowance pushback (now 4
+    distributors), Modern Beauty's separate Winnipeg channel-conflict
+    complaint, the BNC financing review, the still-unconfirmed Design
+    Financier insurance documents, Marie's open Gorewards distributor-credit
+    question, and two parallel Netherlands 3PL conversations (Cole Intl,
+    OGO Ship). Closed this week: UK launch progress across design meetings/
+    event logistics/planning meeting, Genia's workshop and presentation,
+    Head Brands Sweden contract plus Headbrands High Stage/Collection 2027
+    confirmation, first Oligo-Alcove/Beauté Star brand meeting, Calura C&S
+    launch, SSG return, Cristina's formula answers, Team Boot Camp details,
+    CFO/VP Marketing JDs, lightener promo (partially), routine shipments,
+    RBC meeting, OLIGO FRANCE review. Watching: QOAT/Cassiopeia (Shareholders
+    Call ran but outcome unconfirmed), the Air Canada ABAY4C conflict (still
+    unreconciled), MIDL UK invoices. Decided by: agent.

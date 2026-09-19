@@ -344,3 +344,15 @@ what was decided or corrected, who called it.
     RBC meeting, OLIGO FRANCE review. Watching: QOAT/Cassiopeia (Shareholders
     Call ran but outcome unconfirmed), the Air Canada ABAY4C conflict (still
     unreconciled), MIDL UK invoices. Decided by: agent.
+28. 2026-09-19 — Daily brief ran and emailed successfully (subject "Daily
+    Brief — Vernico — September 19, 2026"). Read 0 calendar events and all
+    22 inbox messages for the day, fresh this turn — quiet Saturday, mostly
+    newsletters and LinkedIn digests. Nothing needing Ilan today. Closed/
+    routine: the Netherlands 3PL search continues (DVR Warehousing replied
+    interested, AIT Worldwide looped in their European Director), and Viva
+    Hair (Romania) sent their completed 2027 S1 promo proposal to Javier.
+    Watching: the QOAT/Cassiopeia visibility anomaly recurred — Marta sent a
+    "Transition Document and Protected Accounts" file to Aditi/Alfredo,
+    landing in Ilan's inbox again without him as a listed recipient, same
+    pattern as Sept 15 — on top of last week's still-open retainer and
+    commission-tail questions. Decided by: agent.

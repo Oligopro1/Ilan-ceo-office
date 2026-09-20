@@ -356,3 +356,19 @@ what was decided or corrected, who called it.
     landing in Ilan's inbox again without him as a listed recipient, same
     pattern as Sept 15 — on top of last week's still-open retainer and
     commission-tail questions. Decided by: agent.
+29. 2026-09-20 — Daily brief ran and emailed successfully (subject "Daily
+    Brief — Vernico — September 20, 2026"). Read 1 calendar event (personal
+    cc-payment reminder) and all 32 inbox messages for the day, fresh this
+    turn. Flagged as needing attention: Cristina Da Silva's absence request
+    awaiting approval; Tina Lopez (4Bassett) reporting her two DV colour
+    class attendees still never received the promised email/video, a repeat
+    of last week's ask; archive mailbox at 99.05 of 100 GB. Closed/routine:
+    Safir sent a "Friday recap" of the QOAT Shareholders Call to Ilan (first
+    time Ilan was a direct recipient on a QOAT thread in weeks) — on Marta:
+    not renegotiating, honouring the contract to the letter — this answers
+    last week's open question on where the call left things; AIT Worldwide
+    confirmed escalating Ilan's 3PL request to their European contract
+    logistics director. Watching: Air Canada booking ABAY4C — a third
+    marketing email this month (today's airport-delay warning) still treats
+    it as active, never reconciled against the Sept 13 refund note. Decided
+    by: agent.

@@ -372,3 +372,31 @@ what was decided or corrected, who called it.
     marketing email this month (today's airport-delay warning) still treats
     it as active, never reconciled against the Sept 13 refund note. Decided
     by: agent.
+30. 2026-09-21 — Daily brief ran and emailed successfully (subject "Daily
+    Brief — Vernico — September 21, 2026"). Read both calendar events and
+    all 45 inbox messages for the day, fresh this turn — busy Monday.
+    Flagged as needing attention: Cristina needs the final QOAT spray name
+    before today's preservative-challenge batch ships, no changes possible
+    after submission; an EU 3PL blocker — Cole Intl holding the Netherlands
+    shipment pending Ilan's non-resident-importer setup, MIDL separately
+    confirmed they can't act as buyer/distributor/seller so the buyer needs
+    its own EORI#; Cole Intl also flagged a $300 USD/container ocean freight
+    increase on the Spain shipment needing sign-off; Denis Kapo (Nordic
+    Beauty Brands) sent a second follow-up chasing the termination notice;
+    Javier needs payment arranged for the London event's catering; an
+    urgent warranty claim came in on a defective T-Light Pro dryer;
+    Cristina asked how to proceed on a Netherlands INCI list request since
+    the current list isn't final; Catherine continuing the HOPO132988
+    liquidation/old-stock question. Closed: Head Brands Sweden contract
+    essentially finalized (final draft + full pricing file sent); Genia
+    sent the downloadable workshop PPT; Beauté Star sent September 2026
+    sales results for both Oligo and Alcôve, confirmed pro-liter samples
+    distributed, and asked to ship Proudly Canadian samples next week;
+    Beauty Craft MN shipment confirmed for tomorrow; Anton (OGO Ship)
+    engaging further on the NL 3PL fit; Scale 3PL and a new Disayt intro
+    both responded with interest; Marie set a start date/training schedule
+    for new hire Andrew at West Coast Beauty; routine order/invoice
+    processing continued via Donna/Rosa. Watching: Nordic Beauty Brands
+    termination notice now unanswered through a second follow-up; the EU
+    non-resident-importer/EORI issue could affect more than one shipment if
+    unresolved. Decided by: agent.

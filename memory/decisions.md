@@ -400,3 +400,34 @@ what was decided or corrected, who called it.
     termination notice now unanswered through a second follow-up; the EU
     non-resident-importer/EORI issue could affect more than one shipment if
     unresolved. Decided by: agent.
+31. 2026-09-22 — Daily brief ran and emailed successfully (subject "Daily
+    Brief — Vernico — September 22, 2026"). Read all 6 calendar events and
+    all 119 inbox messages for the day, fresh this turn — busy Tuesday.
+    Biggest event: Anton Ranchin's termination was executed today —
+    separation agreement and termination letter sent via DocuSign, Ali
+    notified the whole team at 5pm; Ogletree (Carolyn Knox) flagged his
+    system access won't be cut for another 24 hours since Ilan said he
+    trusts him. Flagged as needing attention: an unlabeled email draft from
+    Ali awaiting Ilan's OK before going to the team; a USDCAD TARF expiring
+    Thursday with spot above 1.40 (Moneycorp asking if Ilan wants to trade
+    spot); EISS (Lisa) disputing the 3% discount discontinuation notice,
+    saying they've only ever had 2%, conflicting with what was sent to
+    David — needs reconciling with Ronen; Beauté Star's amendment still
+    unanswered (2nd follow-up); TJX Canada sent a high-importance Blacklight
+    test-order offer; Marie wants to book the July-Dec sales review;
+    Beauty Craft's CEO asking for a 3-day PO turnaround; Cosmoprof Bologna
+    2027 contract still unsigned (2nd follow-up); Design Financier's will
+    still outstanding; archive mailbox still at 99.05/100GB. Closed: Nordic
+    Beauty Brands (Denis) responded clarifying their position ahead of the
+    Headbrands meeting; Eleganza confirmed accepting the 3% allowance loss,
+    wants to discuss further; London trip fully confirmed and underway (UK
+    eTA approved, AC866 departed today, Café Murano dinner for 41 and Strand
+    Palace logistics locked) — resolves the Air Canada ABAY4C conflict
+    flagged repeatedly since Sept 13, it was simply an active upcoming trip;
+    Beauté Star SO33472 tracking sent and BF/CM promo plan finalized;
+    Proudly Canadian samples approved for Sept 28 shipping; Design.me
+    product-update ownership handed to the regulatory team; Australia
+    shipment (Salon Support) fell through over UN-number separation costs.
+    Watching: CPNP/SCNP EU numbers still no firm date; EU/NL 3PL search now
+    three parallel conversations (Cole Intl, Scale 3PL, AIT Worldwide);
+    QOAT quiet today. Decided by: agent.

@@ -431,3 +431,10 @@ what was decided or corrected, who called it.
     Watching: CPNP/SCNP EU numbers still no firm date; EU/NL 3PL search now
     three parallel conversations (Cole Intl, Scale 3PL, AIT Worldwide);
     QOAT quiet today. Decided by: agent.
+32. 2026-09-23 — The 5pm daily brief trigger fired, but the Microsoft 365
+    connector was disconnected/unauthenticated at fire time — no inbox or
+    calendar read was possible, so no brief could be written or sent.
+    Recording the gap rather than inventing a brief from stale context, per
+    R9/R3. This needs Ilan to re-authorize the Microsoft 365 connector
+    (claude.ai connector settings) before the next scheduled firing can
+    produce a real brief. Decided by: agent (reporting a miss).

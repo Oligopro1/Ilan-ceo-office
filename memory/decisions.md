@@ -438,3 +438,8 @@ what was decided or corrected, who called it.
     R9/R3. This needs Ilan to re-authorize the Microsoft 365 connector
     (claude.ai connector settings) before the next scheduled firing can
     produce a real brief. Decided by: agent (reporting a miss).
+33. 2026-09-24 — The 5pm daily brief trigger fired; Microsoft 365 is still
+    showing as disconnected/unauthenticated (2nd consecutive day) — no
+    inbox or calendar read was possible, so no brief could be written or
+    sent. Same gap as 2026-09-23 (entry 32), not yet fixed on the
+    Microsoft 365 side. Decided by: agent (reporting a miss).

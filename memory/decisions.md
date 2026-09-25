@@ -443,10 +443,10 @@ what was decided or corrected, who called it.
     inbox or calendar read was possible, so no brief could be written or
     sent. Same gap as 2026-09-23 (entry 32), not yet fixed on the
     Microsoft 365 side. Decided by: agent (reporting a miss).
-34. 2026-09-25 — The 5pm daily brief trigger fired; Microsoft 365 is still
-    disconnected/unauthenticated (3rd consecutive day) — no brief written
-    or sent, same unresolved gap as entries 32-33. Also: today is Friday,
-    so the weekly brief (trig_01TexiSFHj2BV6G8M35Hk7kA) is blocked the same
-    way — no weekly-brief notification was received this firing, but even
-    if it had been, the same connector gap would have blocked it too.
-    Decided by: agent (reporting a miss).
+34. 2026-09-25 — Both the 5pm daily brief and the Friday weekly brief
+    triggers fired (weekly notification arrived a couple minutes after the
+    daily one). Microsoft 365 is still disconnected/unauthenticated (3rd
+    consecutive day) — confirmed again via a fresh tool check before
+    writing the weekly brief — so neither brief could be written or sent.
+    Same unresolved gap as entries 32-33. Decided by: agent (reporting a
+    miss).

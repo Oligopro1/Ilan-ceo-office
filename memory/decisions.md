@@ -450,3 +450,7 @@ what was decided or corrected, who called it.
     writing the weekly brief — so neither brief could be written or sent.
     Same unresolved gap as entries 32-33. Decided by: agent (reporting a
     miss).
+35. 2026-09-26 — The 5pm daily brief trigger fired; Microsoft 365 is still
+    disconnected/unauthenticated (4th consecutive day) — no brief written
+    or sent. Same unresolved gap as entries 32-34, still needs Ilan to
+    re-authorize the connector. Decided by: agent (reporting a miss).

@@ -454,3 +454,7 @@ what was decided or corrected, who called it.
     disconnected/unauthenticated (4th consecutive day) — no brief written
     or sent. Same unresolved gap as entries 32-34, still needs Ilan to
     re-authorize the connector. Decided by: agent (reporting a miss).
+36. 2026-09-27 — The 5pm daily brief trigger fired; Microsoft 365 is still
+    disconnected/unauthenticated (5th consecutive day) — no brief written
+    or sent. Same unresolved gap as entries 32-35. Decided by: agent
+    (reporting a miss).

@@ -458,3 +458,16 @@ what was decided or corrected, who called it.
     disconnected/unauthenticated (5th consecutive day) — no brief written
     or sent. Same unresolved gap as entries 32-35. Decided by: agent
     (reporting a miss).
+37. 2026-09-28 — Microsoft 365 reconnected (Ilan re-authorized it) —
+    verified live via get_me, confirmed signed in as ilanc@vernico.com.
+    This closes the gap logged in entries 32-36 (2026-09-23 through
+    2026-09-27, 5 missed daily briefs plus the 2026-09-25 weekly). Same
+    turn, per Ilan's direct request: drafted a distributor-facing email
+    on the new US shipping process (3PL partner in Plattsburgh, NY —
+    merchandise routes through there for 48 hours before final delivery;
+    invoicing stays with Vernico Products as always) and sent it to Ilan's
+    own inbox for review, per R1 (draft first, no distributor list yet,
+    one point flagged for his confirmation: that invoicing stays as-is
+    rather than switching to Oligo Professionnel — the dictation was
+    ambiguous on this point). Not sent to any distributor. Decided by:
+    agent, per Ilan's instruction.

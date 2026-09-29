@@ -471,3 +471,29 @@ what was decided or corrected, who called it.
     rather than switching to Oligo Professionnel — the dictation was
     ambiguous on this point). Not sent to any distributor. Decided by:
     agent, per Ilan's instruction.
+38. 2026-09-28 — Daily brief ran and emailed successfully (subject "Daily
+    Brief — Vernico — September 28, 2026"), first live brief since the
+    Microsoft 365 gap closed. Read all 6 calendar events and all 19 inbox
+    messages for the day, fresh this turn. Flagged as needing attention:
+    Raphy forwarded all Bright Innovation Labs shipped invoices and asked
+    directly when to start invoicing clients (financial, needs Ilan's
+    call); William Rodriguez (Beauty Code) asked for new banking
+    information reviving the August tariffs thread — flagged for phone
+    verification before anything is sent, given this pattern is a common
+    fraud vector regardless of who it appears to be from; Modern Beauty's
+    consolidated Oligo return is ready to ship, corrected total sent twice,
+    awaiting Ilan's confirmation and shipment-attention instructions; Dafni
+    flagged the Alcove Klix cost Ilan wrote down was their raw COGS, not
+    Alcove's sell cost (divide by 0.7); Cole Intl needs packing group,
+    commercial invoice, and packing list before the Sept 30 Albania
+    loading; QOAT (Aditi) raised a timing concern on the 150mL bottle/
+    formula issue; AIT Worldwide needs available days for a 3PL call.
+    Closed: Vicky sent David (EISS) proposed times for the Spring 2027 Hair
+    Show call — closes the draft held in Ilan's inbox since mid-September;
+    Cole Intl's Netherlands 3PL shipment got its revised invoice; both
+    Beauté Star Oct 1 planning meetings (Oligo, Alcôve) and the Eleganza
+    touch base ran; Oly Anger confirmed available for a call. Watching: UK
+    3PL search (Clare) still limited by the small requirement size; Calura
+    Styling Oil Elixir EU reformulation moving to production; Supply &
+    Scale opened a new EU distributor/3PL dangerous-goods thread. Decided
+    by: agent.

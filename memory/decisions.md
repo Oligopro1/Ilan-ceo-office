@@ -497,3 +497,25 @@ what was decided or corrected, who called it.
     Styling Oil Elixir EU reformulation moving to production; Supply &
     Scale opened a new EU distributor/3PL dangerous-goods thread. Decided
     by: agent.
+39. 2026-09-29 — Daily brief ran and emailed successfully (subject "Daily
+    Brief — Vernico — September 29, 2026"). Read both calendar events and
+    all 24 inbox messages for the day, fresh this turn. Ilan traveled to
+    Toronto (AC409) today. Flagged as needing attention: Ronen already sent
+    payment info to William Rodriguez (Beauty Code) today — this is the
+    exact banking-info request flagged yesterday (entry 38) for phone
+    verification before anything went out, so worth Ilan confirming with
+    Ronen it was verified as legitimate first; AIT Worldwide proposed the
+    3PL call for Oct 2 at 11:30am EST, needs a yes/no; Kline Group's Alex
+    wants to add colleague Agnieszka (was on recent Anton calls) to an
+    upcoming meeting, needs Ilan's OK. Closed: Cole Intl's Albania FCL
+    export resolved (4 hazmat detail sets confirmed, proceeding with
+    UN1950, revised docs sent); CanRad's Jack Stern will stop the Alcôve
+    Manitoba issue per Ilan's ask; Gabriel credit-application call
+    confirmed for Friday noon; QOAT got this week's shipment invoices/
+    statement from Ronen; EISS's Monday shipment invoices sent; Mont
+    Tremblant team event confirmed paid. Watching: today's Director Sales
+    meeting invite still lists Anton as an attendee (stale, calendar
+    cleanup not urgent); Natalie Morrissette checked in again awaiting
+    Catherine's promised follow-up; Felicia's Europe Blacklight regulatory
+    launch-plan meeting is internal, nothing needed from Ilan yet. Decided
+    by: agent.

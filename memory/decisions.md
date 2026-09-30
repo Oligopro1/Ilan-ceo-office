@@ -519,3 +519,27 @@ what was decided or corrected, who called it.
     Catherine's promised follow-up; Felicia's Europe Blacklight regulatory
     launch-plan meeting is internal, nothing needed from Ilan yet. Decided
     by: agent.
+40. 2026-09-30 — Daily brief ran and emailed successfully (subject "Daily
+    Brief — Vernico — September 30, 2026"). Read all 5 calendar events and
+    all 79 inbox messages for the day, fresh this turn. Ilan was in Toronto
+    with an evening return flight. Flagged as needing attention: Cosmoprof
+    Bologna's Eleonora says she never received the actual signed contract,
+    only an email, needs it resent; William Rodriguez's bank needs a bank
+    address to process the Beauty Code wire transfer; Raphy pushed back on
+    IT (Hani) restricting Claude's access to the R&D folder, citing Ilan's
+    reliance on Claude for email/admin work — worth Ilan's awareness since
+    it affects this office's own capability; UK 3PL (Clare) needs DG data
+    sheets and a preferred storage location; Netherlands 3PL (Axell) needs
+    MSDS sheets; holiday closure dates (Dec 24 noon–Jan 4, last order Dec
+    11) are close to final per Raphy, flagged in case Ilan wants to weigh
+    in. Closed: Beauty Craft's MN/WA POs confirmed shipping Oct 1; Dafni/
+    Alcôve Klix finalized price list resolved yesterday's COGS confusion;
+    Albania FCL export's EORI/consignee/MBL-HBL details all confirmed
+    (container still needs a security bar, ordered); Beauté Star Nov-Dec
+    magazine promo corrections sent; HeadBrands sent a London-trip thank-
+    you; THG passed on the fulfillment brief (prospect dead); Javier
+    already reaching out to the French distributor on Italy's shade
+    shortage. Watching: today's International Status Meeting invite still
+    listed Anton (same stale-invite issue as yesterday); Netherlands 3PL
+    search still iterating; Scotiawealth/SKS family wealth-planning
+    follow-up progressing. Decided by: agent.

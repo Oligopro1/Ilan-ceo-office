@@ -543,3 +543,11 @@ what was decided or corrected, who called it.
     listed Anton (same stale-invite issue as yesterday); Netherlands 3PL
     search still iterating; Scotiawealth/SKS family wealth-planning
     follow-up progressing. Decided by: agent.
+41. 2026-10-01 — The 5pm daily brief trigger fired; Microsoft 365 was not
+    reachable this turn — unlike the September 23-27 outage, it wasn't
+    flagged as needing re-authorization, it was simply absent from the
+    tool list, so no inbox or calendar read was possible and no brief
+    could be written or sent. Possibly related to the IT access
+    restriction Raphy was pushing back on with Hani yesterday (entry 40,
+    Claude's access to the R&D folder) — flagging the connection as
+    unverified, not confirmed. Decided by: agent (reporting a miss).

@@ -551,3 +551,30 @@ what was decided or corrected, who called it.
     restriction Raphy was pushing back on with Hani yesterday (entry 40,
     Claude's access to the R&D folder) — flagging the connection as
     unverified, not confirmed. Decided by: agent (reporting a miss).
+42. 2026-10-02 — Microsoft 365 reconnected. Did not attempt to backfill
+    Oct 1 (consistent with how the Sept 23-27 outage was handled); ran
+    today's brief live instead. Daily brief ran and emailed successfully
+    (subject "Daily Brief — Vernico — October 2, 2026"). Read all 8
+    calendar events and all 37 inbox messages for the day, fresh this
+    turn. Flagged as needing attention: Raphy flagged ~$100K in tariffs
+    sitting on inventory still at Bright (US), pushing to set up the Bright
+    account ASAP to schedule a pickup — financial, time-sensitive; Raphy
+    also needs info from Ilan to complete Bright's invoice-setup form;
+    Industria Coiffure (Nicola) asking whether Ilan will take back Black
+    Light stock or they should liquidate it; 4Bassett's Ward Bassett asking
+    directly if Ilan wants to cover 100% of the Hairdreams Las Vegas cost;
+    Catherine asked to skip this year's Masello Next Level Show, needs a
+    decision on team attendance; Gabriel credit-application reschedule
+    needs a firm date before Oct 15; Catherine sent BLBS label change
+    requests for awareness before print. Closed: a large Bright-related
+    shipping day — invoices/promo balances/packing slips went to six
+    distributors (Twinstate/Jacksonville FL, Salon Center, Salon Service
+    Group, Salon Wax, PB Supply, Masello); Spain shipment placards
+    confirmed; HOPO132988 discontinued-product question closed with
+    Chatters; Genia Video Editing Agent demo booked; Moneycorp TARF 3985
+    expired with no obligation to Vernico; Natalie Morrissette responded
+    well to Catherine's feedback. Watching: home alarm unarmed again at
+    11:15am (recurring); Vchain Consulting sent a formal paid 3PL
+    consulting proposal (ref VCH-OLG-2026-01); Charlene's EU labeling-
+    translation follow-up is internal, nothing needed yet. Decided by:
+    agent.

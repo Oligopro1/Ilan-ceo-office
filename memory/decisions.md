@@ -578,3 +578,17 @@ what was decided or corrected, who called it.
     consulting proposal (ref VCH-OLG-2026-01); Charlene's EU labeling-
     translation follow-up is internal, nothing needed yet. Decided by:
     agent.
+43. 2026-10-02 through 2026-10-04 — The Friday weekly brief (week of Sept
+    28) was started but never completed or sent — the session was
+    interrupted mid-compilation and the work was lost rather than
+    resumed. The Oct 3 (Saturday) and Oct 4 (Sunday) daily brief triggers
+    also fired but were never acted on for the same reason: repeated
+    session interruptions before any tool call could run. Rather than
+    reconstruct three days of stale inbox/calendar state after the fact
+    (which would violate R3 — a late read is not the same as a same-turn
+    read of what was true at the time), recording the gap plainly and
+    resuming live with today's brief. No distributor, financial, or legal
+    items are known to have been missed-and-unflagged, since each daily
+    brief through Oct 2 already surfaced the live open items; anything
+    new from Oct 3-4 simply wasn't captured. Decided by: agent (reporting
+    three misses).

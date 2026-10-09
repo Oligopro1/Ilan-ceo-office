@@ -621,3 +621,28 @@ what was decided or corrected, who called it.
     RSVP yet; "EUROPE - PLAN REGLEMENTATION" Blacklight EU launch meeting
     on calendar; your calendar shows you out of office (Ibiza) Oct 7-13 —
     flagged in case that's wrong. Decided by: agent.
+46. 2026-10-09 — Daily brief ran and emailed successfully (subject
+    "Daily Brief — Vernico — October 9, 2026"). Read all 3 calendar
+    events and all 88 inbox messages for the day, fresh this turn.
+    Needs you: CIBC Visa (…6969) flagged below its credit threshold,
+    same payment your own reminder has been flagging since yesterday;
+    Donna needs the Salonwax hazardous-goods doc before she leaves on
+    vacation next week (back Oct 19); AIT Worldwide's Irish warehouse
+    partner needs MSDS documents for the new 3PL; Selina's Oligo Testing
+    Program SOP is waiting on your OK to share externally; Labea (Italy)
+    needs weight/size/pickup address to arrange a return shipment;
+    Rosa/Feras's old Blacklight packaging return from Calgary still
+    unresolved; three Oligo meeting invites from Javier (Spain, UK
+    monthly ops, Netherlands) sitting unanswered; you're still tentative
+    on today's 10am Managers Meeting. Closed: Cosmoprof Bologna 2027 —
+    Raphy signed and sent the corrected contract; BLONDE SCIENCE (US)
+    trademark registration certificate received; HeadBrands Sweden
+    launch order shipped; Beauty Craft PO 45939 confirmed shipped; a
+    full day of routine distributor shipments invoiced by Donna, nothing
+    needed from you; Feras confirmed "we are on it" on Blacklight
+    packaging. Watching: QOAT Australia formula-ownership question
+    resolved internally (Vernico owns it, Charlene cleared to proceed);
+    QOAT Shareholders Call ran today, not on your calendar; home alarm
+    unarmed again at 11:15am; TD Wealth Management touch-base to you,
+    Raphy and Ronen, no ask yet; Javier lining up Spain (GMD) marketing
+    assets with Catherine. Decided by: agent.

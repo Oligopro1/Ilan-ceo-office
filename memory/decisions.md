@@ -683,3 +683,15 @@ what was decided or corrected, who called it.
     (Oligo Professionnel USA Inc) due for check date Oct 15; archive
     mailbox still at 99.05/100GB; Ibiza OOO block still showing through
     Oct 13. Decided by: agent.
+49. 2026-10-11 through 2026-10-12 — The Oct 11 inbox/calendar were pulled
+    fresh that turn (1 calendar event, 21 inbox messages, all read), but
+    the brief itself was never composed or sent before the session was
+    cut off by repeated "Continue from where you left off" interruptions.
+    By the time work resumed, presenting that pull as "today's brief"
+    would have been stale and out of sequence, so it was discarded
+    rather than sent late — same reasoning as the Oct 5 miss (entry 44).
+    The Oct 12 daily brief trigger fired but was never acted on at all
+    during the same run of interruptions. Recording both as misses
+    rather than reconstructing or back-dating anything, per the standing
+    R3 discipline, and resuming live with today's (Oct 13) brief.
+    Decided by: agent (reporting two misses).

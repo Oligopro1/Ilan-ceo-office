@@ -846,3 +846,15 @@ what was decided or corrected, who called it.
     a check; archive mailbox still full; Javier's ongoing UK sell-out
     data discussion; a Modern Beauty/Dafni introduction, FYI only.
     Decided by: agent.
+56. 2026-10-18 — The daily brief's calendar (1 event) and inbox (23
+    messages) were pulled fresh that turn, but the brief itself was
+    never composed or sent before the session was cut off by a
+    "Continue from where you left off" interruption; by the time work
+    resumed, Oct 19 had arrived, so presenting that pull as "today's
+    brief" would have been stale and out of sequence — discarded
+    rather than sent late, per the same R3 reasoning as the Oct 5 and
+    Oct 11 misses (entries 44, 49). Unlike the Oct 12 weekly brief
+    (entry 54), a daily brief's "today" is not fixed history, so the
+    late-send exception used there doesn't apply here. Recording the
+    miss and resuming live with today's (Oct 19) brief. Decided by:
+    agent (reporting a miss).

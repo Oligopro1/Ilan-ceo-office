@@ -858,3 +858,18 @@ what was decided or corrected, who called it.
     late-send exception used there doesn't apply here. Recording the
     miss and resuming live with today's (Oct 19) brief. Decided by:
     agent (reporting a miss).
+57. 2026-10-19 — Same failure mode as entry 56: the day's calendar (5
+    events) and a substantial partial inbox pull (102+ messages, not
+    yet exhaustive) were read fresh that turn, but the brief was never
+    composed or sent before the session was cut off and Oct 20
+    arrived. Discarded rather than sent late, per the same R3
+    reasoning as entries 44, 49, and 56. Notable items seen in the
+    partial pull, for awareness only (not verified as of any brief,
+    since none was sent): Oligo Bootcamp at Mont-Tremblant departed
+    Oct 20 (meeting point moved to 8:45am after Ilan's wife fell
+    sick); two VP of Marketing candidate interviews held (Meena,
+    Adam) with a positive thank-you after from Adam; Alcôve H2 2027
+    Promo Plan V3 circulated by Devon; a legal referral (Lynn Kassie,
+    RSS) given to Max/UpCounting; home alarm unarmed again at 11:15am.
+    Recording the miss and resuming live with today's (Oct 20) brief.
+    Decided by: agent (reporting a miss).

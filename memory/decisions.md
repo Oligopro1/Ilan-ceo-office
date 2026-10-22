@@ -915,3 +915,37 @@ what was decided or corrected, who called it.
     personal utility payment processing; Colour Innovation Bootcamp
     wrapped up today; Albania's Zois finally sent the overdue 2027
     Jan-Jun promo order to Javier. Decided by: agent.
+60. 2026-10-22 — Daily brief ran and emailed successfully (subject
+    "Daily Brief — Vernico — October 22, 2026"). Read all 7 calendar
+    events and all 94 inbox messages for the day, fresh this turn.
+    Needs you: a cancellation notice went out for the 10am BLBS/
+    Marketing budget vs spend meeting but the calendar still lists it
+    as live, needs confirming; today's Director Sales meeting (4:30pm)
+    still lists Anton Ranchin as an attendee, same stale-invite pattern
+    flagged 2026-09-29/30 (entries 39-40), still not cleaned up; Raphy
+    asked directly whether unusually large developer orders are
+    expected for the BLBS Feb 1 launch; Rosa's "Commande O Salon 1/3"
+    stalled on a price-list question and whether there's an order to
+    enter; Michael (Masello) locked Dec 8 morning as the only date that
+    works, needs a yes/no; Aditi (QOAT) followed up twice more,
+    unanswered, on the final INCI list for the 150mL HydraGlow Mist;
+    Marc at Contessa Awards still hasn't confirmed guest tickets. HR:
+    Ali sending Emile Chartrand a compensation/salary-increase letter,
+    FYI. Legal/financial: a CBP "5 Days" CTPAT account-deactivation
+    warning (same CTPAT/TC account renewed 2026-09-01, needs a login
+    this week); the Evoke Brand Strategies invoice question tied to
+    Anton's termination is still open, Catherine says she's not aware
+    of the underlying conversations and offered to call them. Closed:
+    Alcôve styling wand price ($12) confirmed; Obelis UK invoice paid,
+    confirmed received, project moving to next phase; November rent
+    invoice ($7,345.57, Gestion Coulombe) received, routine; Mark Shaw
+    rescheduled to next Tuesday 1pm after Ilan flagged being sick with
+    a flu caught in Spain; New 3PL Disayt (Javier) answered inline.
+    Watching: Headbrands Sweden (Victor Hersner) chasing Catherine/
+    Javier twice now for distributor templates, no EU prices yet; VP of
+    Marketing search continuing — Jaklin and Derek interviewed today,
+    a new candidate (Maxine) also accepted; Alcôve Amazon account-
+    activation issue traced to Ilan's own Amazon buyer account, still
+    open; "Bootcamp - Color innovation" shows on today's calendar but
+    actually concluded 2026-10-21 (exclusive end-date display quirk).
+    Decided by: agent.

@@ -949,3 +949,64 @@ what was decided or corrected, who called it.
     open; "Bootcamp - Color innovation" shows on today's calendar but
     actually concluded 2026-10-21 (exclusive end-date display quirk).
     Decided by: agent.
+61. 2026-10-23 through 2026-10-25 — Four consecutive firings were lost to
+    the same repeated-session-interruption pattern seen in entries 43-44
+    and 49: the Oct 23 weekly brief (week of Oct 19) had its full week
+    calendar read fresh (23 events, confirmed via totalResultCount) and a
+    substantial partial read of Friday's inbox (97+ messages, offsets
+    0-96) before the session was cut off mid-pagination; the Oct 23 daily
+    brief and Oct 24 daily brief triggers fired during the same outage and
+    were never acted on at all; the Oct 25 daily brief's calendar (0
+    events — quiet Sunday) and full inbox (23 messages, confirmed complete)
+    were read fresh that turn, but the brief itself was never composed
+    before Oct 26 arrived. Per the standing R3 discipline, a daily brief's
+    "today" is a moving target and is discarded rather than backdated once
+    the day turns over (entries 44, 49, 56, 57) — this applies to all
+    three daily misses here (Oct 23, 24, 25). The Oct 23 weekly brief is
+    different in kind (it covers a fixed past week, so the one-day-late
+    exception used in entry 54 would normally apply) — but by the time
+    work resumed it was already two days past due, past the window that
+    exception was meant to cover, and continuing to stretch it risked
+    further unreliable reconstruction, so it is logged as a miss as well
+    rather than sent stale. Nothing from these four firings was sent,
+    and none of the partial data gathered was presented as a real brief.
+    Resuming live with today's (Oct 26) daily brief. Decided by: agent
+    (reporting four misses).
+62. 2026-10-26 — Same failure mode as entry 61: the day's calendar (2
+    events) and full inbox (80 messages, confirmed complete — a second
+    pagination call at offset 80 returned no further results) were read
+    fresh that turn, but the brief was never composed or sent before
+    Oct 27 arrived. Discarded rather than sent late, per the standing
+    R3 discipline (entries 44, 49, 56, 57, 61). Resuming live with
+    today's (Oct 27) daily brief. Decided by: agent (reporting a miss).
+63. 2026-10-27 — Daily brief ran and emailed successfully (subject
+    "Daily Brief — Vernico — October 27, 2026"). Read all 8 calendar
+    events and all 129 inbox messages for the day, fresh this turn.
+    Needs you: Director meeting SALES (9:30am) still lists Anton
+    Ranchin as an attendee, unfixed for a month since first flagged;
+    Devon (Alcôve) waiting on H2 2027 Promo Plan feedback; Marie's SSG
+    H1 2027 V2 deck needs a sales-structure conversation with you;
+    Francesco (Eleganza) pushed back that 2027 growth targets are too
+    aggressive, you offered to lower if needed, still open; Rachid's
+    CNESST claim names you as contact, Ali is tracking it; Carla
+    Donahue's resume — Teams call requested for the VP role; Liquid
+    Assets Cosmoprof contact (Seila) hasn't sent a callback number.
+    HR: Rachid's CNESST claim. Legal/financial: Ogletree Deakins'
+    latest Anton Ranchin legal bill (you said pay); Investissement
+    Québec's October invoices for Produits Vernico Ltée/9507-7483
+    Québec inc., forwarded without comment. Closed: 150mL HydraGlow
+    Mist INCI list finally sent to Aditi (QOAT) for US/Canada,
+    confirmed received — closes a weeks-long open item; Mont Ransome's
+    perm order finalized, shipping UPS for Oct 30; December meeting
+    (Masello) locked for Dec 8, 10am; Amazon sales figures confirmed
+    USD; EZ POS credit for Modern Beauty approved; Beauté Star October
+    results in — Oligo crossed $300K there for the first time; Alcôve/
+    Chatters next steps confirmed "good to go." Watching: Sweden vs.
+    Thailand shipment threads got tangled on the same email chain
+    today (Raphy, Angelica, Ilan all separately flagged it, seems
+    sorted by end of day); VP of Marketing search continuing (Jessenia
+    interviewed, Carla Donahue added to pipeline); Headbrands Sweden
+    still chasing a shipping update; Felicia (Promo Plan H2 2027) now
+    on maternity leave, Catherine picked up the review; home alarm
+    unarmed again at 11:15am; archive mailbox still full. Decided by:
+    agent.

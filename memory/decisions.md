@@ -1010,3 +1010,33 @@ what was decided or corrected, who called it.
     on maternity leave, Catherine picked up the review; home alarm
     unarmed again at 11:15am; archive mailbox still full. Decided by:
     agent.
+64. 2026-10-28 — Daily brief ran and emailed successfully (subject
+    "Daily Brief — Vernico — October 28, 2026"). Read all 6 calendar
+    events and all 130 inbox messages for the day, fresh this turn.
+    Needs you: Ali's team-wide note that Sébastien Mot is no longer
+    with the company needed your edit before going out; Marie sent
+    2027 US/Canada distributor price lists for review ahead of this
+    week's price-increase notice; Catherine needs a call on whether
+    the Tiffany collab is a separate dossier in the Promo Plan H2 2027
+    (due out next week); Ann-Marie flagged Contessa logistics
+    questions still coming in from clients/DSCs with the event just
+    over a week out; four VP of Marketing in-person interviews being
+    scheduled, Carla accepted hers; Piper Reed wants an A/B/C answer
+    on Calura Permanent buyers. HR: Sébastien Mot's departure;
+    separately Rachid's CNESST claim — today's CNESST notice named a
+    different entity ("9400-9503 Québec inc.") than referenced
+    yesterday, worth confirming it's the right one before engaging;
+    Ali says wait for CNESST's own call. Legal/financial: Ogletree
+    Deakins' Anton Ranchin bill entered into NetSuite by Rosa, ready
+    for Ronen to pay. Closed: Contessa format change (no dinner)
+    confirmed to all, tickets sent; Facebook group admin access fixed;
+    UCA/Industria deal summarized and sent (5% additional discount,
+    Blacklight inventory exchange, 2027 planning agreed); Oligo Italy
+    additional order/payment terms approved; NP Group card-on-file
+    confusion resolved; Thailand shipment labels/documents confirmed
+    moving with Cole Intl. Watching: three parallel 3PL threads (Scale
+    3PL, Supply & Scale, 3PEEL); Alcôve/Viva Distribution call locked
+    for next Thursday, time pending; archive mailbox still full. One
+    message found in the inbox (marked private, personal, unrelated to
+    business) was deliberately excluded from the brief as out of
+    scope. Decided by: agent.

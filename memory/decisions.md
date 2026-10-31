@@ -1040,3 +1040,16 @@ what was decided or corrected, who called it.
     message found in the inbox (marked private, personal, unrelated to
     business) was deliberately excluded from the brief as out of
     scope. Decided by: agent.
+65. 2026-10-29 and 2026-10-30 — two consecutive daily-brief misses.
+    Oct 29: full calendar (9 events) and full inbox (102 messages,
+    confirmed complete via no-moreResults on final page) were read
+    fresh that turn, but a tool-call formatting error on the send
+    attempt, followed by an MCP disconnect/session restart, meant the
+    brief was never composed or sent before Oct 30 arrived. Oct 30:
+    work resumed on the Friday weekly brief instead (its calendar and
+    much of its inbox data were gathered that same day), but the
+    daily brief for Oct 30 itself was never separately composed or
+    sent before Oct 31 arrived. Both logged honestly as misses per R3
+    — stale "today" data is never presented as a current brief, and
+    is never backdated. Root cause both times: session
+    interruptions/restarts cut off work mid-task. Decided by: agent.

@@ -1053,3 +1053,28 @@ what was decided or corrected, who called it.
     — stale "today" data is never presented as a current brief, and
     is never backdated. Root cause both times: session
     interruptions/restarts cut off work mid-task. Decided by: agent.
+66. 2026-10-30 weekly brief (week of Oct 26) - sent one day late
+    (subject "Weekly Brief - Vernico - week of October 26, 2026"),
+    per the established exception that a fixed-history weekly brief
+    can go out up to a day late rather than be discarded. Full
+    calendar for Mon-Fri (31 events) and full inbox reads for Mon
+    Oct 26 (92 msgs), Tue Oct 27 (129, per entry 63), Wed Oct 28 (130,
+    per entry 64), and Thu Oct 29 (102, read this session). Fri Oct 30
+    inbox was read only through offset ~115 of an unconfirmed total -
+    disclosed as a coverage gap in the brief itself, not hidden.
+    Needs-you: Promo Plan H2 2027 Nov-Dec BND promo (Catherine's
+    Monday EOD deadline), VP Marketing Adam's dates plus Emile
+    interview question, Alcove compact-mirror promo call, 2027
+    distributor price list NetSuite blocker, Catherine's EmployeurD
+    absence request, Entente Industria quick-close opening. HR/legal/
+    financial named: Rachid's CNESST claim, Ogletree Deakins bill
+    ready for Ronen to pay, Investissement Quebec invoices, Moneycorp
+    routine TARF rolls, Catherine's absence approval, Q3 Rewards
+    Program mislabel. Fraud flag: "North Point Group"/Primola Barua
+    card-info callback request, flagged for phone verification before
+    any action. Closed: HydraGlow INCI list, Mont Ransome perm order,
+    Sebastien Mot departure notice, Contessa format/tickets, UCA/
+    Industria deal, Oligo Italy terms, NP Group card confusion,
+    Thailand labels, Beaute Star crossing $300K, Scale 3PL intro call,
+    QOAT Shareholders Call, Waterwell Irrigation draft. Decided by:
+    agent.

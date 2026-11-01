@@ -1089,3 +1089,26 @@ what was decided or corrected, who called it.
     Beauty District NL retail distribution opportunity, discussion
     with Ilan planned next week; archive mailbox still at 99.05/100
     GB. Decided by: agent.
+68. 2026-11-01 daily brief ran and emailed successfully (subject
+    "Daily Brief - Vernico - November 1, 2026"). Calendar confirmed
+    empty (0 events, quiet Sunday) and full inbox read (43 messages,
+    confirmed complete via no-moreResults on final page), fresh this
+    turn. A heavy email-catchup day for Ilan personally despite no
+    meetings. Needs you: Emile's October "Master" sales file has two
+    discrepancies Ilan flagged (Atelier tickets inclusion, mismatched
+    sheet totals) - awaiting Emile's clarification; Margaux/Oligo
+    Color Intelligence App grant-eligibility links requested
+    separately; Alex - Ilan proposed Nov 16 9am for the rescheduled
+    meeting, awaiting confirmation. Financial/legal named: Beaute
+    Star l'amendement moving toward close (Tony/fractional GC
+    confirmed today); the "CALL BACK NORTH POINT GRP" fraud flag is
+    still open - Ilan forwarded it to Catherine to check if she
+    recognizes them, correctly not acting on the card-info request
+    yet. Closed: VP Marketing - Adam confirmed Nov 19 for his
+    interview; Industria/Beaute Star final terms sent to Joany;
+    Blacklight old-packaging inventory - Ilan told Javier to let
+    Denis set his price; Promo Plan H2 2027 pricing question answered
+    ($160 Canada/USA). Watching: 2027 price-list templates (Primola
+    looped in to help Javier); new European 3PL decision
+    (Globaltrans vs. Scale 3PL) - Ilan's own call, nothing needed from
+    this office; archive mailbox still full. Decided by: agent.

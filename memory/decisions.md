@@ -1190,3 +1190,33 @@ what was decided or corrected, who called it.
     review handled by Charlene/Cristina with Biorius; Modern Beauty
     back-order details still being sorted by Donna; October sales
     confirmed strong for Oligo and Alcove. Decided by: agent.
+73. 2026-11-06 Friday weekly brief ran and emailed successfully
+    (subject "Weekly Brief - Vernico - week of November 2, 2026").
+    Read the full week's calendar fresh (34 events, confirmed via
+    totalResultCount) and the full Nov 6 inbox fresh (135 messages,
+    confirmed complete via no-moreResults on final page); Nov 3 and
+    Nov 5 draw on their own full same-turn daily-brief reads (entries
+    70, 72); Nov 2 and Nov 4 draw on the partial reads from their
+    logged misses (entries 69, 71), disclosed as a coverage gap in
+    the brief rather than claimed as complete. Needs you going into
+    next week: UpCounting's 6 new Revenu Quebec POA forms awaiting
+    signature across the corporate group (9481-6923 Quebec Inc,
+    16616607 Canada Ltd, 9400-9503 Quebec inc, Vernico Products Ltd,
+    9340-4556 Quebec inc, Mamin Inc) - explains Monday's CRA
+    authorized-rep-change notice; Spain shipment customs hold still
+    not fully closed (Javier sent docs, Charlene wants a call);
+    BNC financing review still open; two Beaute Star credit amounts
+    still unverified; Pet Shampoo Project Quality Agreement needs
+    signature; personal bathroom-reno decision still pending. Closed
+    this week: QOAT invoice resolved (466K CAD, Ronen instructed to
+    invoice); QOAT claims-need-evidence direction given; TJX's 6 new
+    POs fully processed; Industria Coiffure credit/order terms
+    settled; France S1 2027 promo accepted; 2027 "Year of Calura"
+    pricing rolled out broadly; Viva x Alcove in-person meeting ran
+    well; VP Marketing/RESM hiring progressing on multiple fronts; EU
+    expansion postponed per Ilan, window-decals risk low, Sweden/
+    Thailand shipments ready. Watching: archive mailbox still full;
+    home alarm unarmed recurring; EISS October sales reconciliation
+    unresolved; European 3PL decision still Ilan's own call; Friday's
+    internal Payroll Analysis meeting outcome not visible in inbox.
+    Decided by: agent.

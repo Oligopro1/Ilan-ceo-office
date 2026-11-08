@@ -1232,3 +1232,16 @@ what was decided or corrected, who called it.
     BNC financing review, two Beaute Star credit amounts, Pet Shampoo
     Quality Agreement, Wellington bathroom reno) showed no movement
     today. Decided by: agent.
+75. 2026-11-08 daily brief ran and emailed successfully (subject
+    "Daily Brief - Vernico - November 8, 2026"). Read 1 calendar
+    event (confirmed via totalResultCount - Air Transat flight to
+    Toronto, 2:15-3:47pm) and all 22 inbox messages for the day
+    (confirmed complete, no further pages), fresh this turn. Quiet
+    Sunday. Closed/routine: BNC Multi-Residentiel financing review
+    moving (Daniel Besner reached National Bank's Sharmeen Friday).
+    Watching: ADP semimonthly payroll for Oligo Professionnel USA Inc
+    due check date Nov 13; archive mailbox still full; a mobile
+    follow-up Ilan sent to Kim Tanner this morning on a "Confidential
+    conversation" thread flagged since no context exists in the
+    mailbox on what it concerns. All other open items from Friday's
+    weekly brief showed no movement. Decided by: agent.
